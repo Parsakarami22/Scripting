@@ -3,6 +3,6 @@
 <head>
 </head>
 <body>
-    Hello $name, You are awesome, and you know it!
+    You just won a dollar $name
 </body>
 </html>
